@@ -1,0 +1,25 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "author": {
+    "name": "Dannington",
+    "id": "181944866987704320"
+  },
+  "url": [
+    "archive.org",
+    "web.archive.org"
+  ],
+  "description": {
+    "english": "This is a PreMiD presence for The Internet Archive (including the Wayback Machine). The Internet Archive is the largest database of all sorts of media, added to the Archive throughout the years. It stores video, audio, text, movies, books, web pages, and more."
+  },
+  "service": "Internet Archive",
+  "version": "1.0.0",
+  "logo": "https://ia601204.us.archive.org/14/items/InternetArchiveLogo/Internet%20Archive%20Logo.png",
+  "thumbnail": "https://ia601204.us.archive.org/14/items/InternetArchiveLogo/Internet%20Archive%20Logo.png",
+  "color": "#000000",
+  "tags": [
+    "archive",
+    "internet",
+    "internet archive"
+  ],
+  "category": "other"
+}
